@@ -1,0 +1,29 @@
+.book-card{
+    border:  1px solid black;
+    padding: 20px;
+    text-align: center;
+    width: 20%;
+    font-size: 15px;
+    margin: auto;
+    margin-top: 20px;
+   
+   
+
+}
+.bookspage{
+   display: grid;
+   gap: 1rem;
+  
+    
+}
+.btns{
+    display: flex;
+    justify-content: space-between;
+
+}.btns>button{
+    font-size: 15px;
+    padding: 5px 15px;
+    background-color: rgb(233, 159, 132);
+    border: none;
+    border-radius: 10px;
+}
